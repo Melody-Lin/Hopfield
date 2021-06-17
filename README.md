@@ -1,4 +1,4 @@
 # Hopfield
 ### Summary  
-• A project in the course of "Neural Network"  
+• Project in the course of "Neural Network"  
 • Using Java and java swing to implement the graphical user interface  
